@@ -9,3 +9,5 @@ void greetBlack
 }
 
 Console.WriteLine("hello everyone");
+
+Console.WriteLine("я каменщик работаю 3 дня ааа");
